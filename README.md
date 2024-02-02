@@ -15,3 +15,6 @@ Navigate to the "front" folder. Run npm i to install the necessary dependencies.
 Execute npm run dev. The front-end will automatically run on server 3001. Access the Application:
 
 Open your browser and type "localhost:3001". DONE!
+
+"note" :
+  if you cant find front folder, pull from here "https://github.com/eotambunan/tes-egogo-front.git"
